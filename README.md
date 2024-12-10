@@ -3,16 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Point I learned :
 
 Only two external Api works and when i try two use third there is usage limit end came.
-I also provide you snapshot.
-
-## Snapshot:
-
-<div style="display: flex; justify-content: space-between;">
-
-  <img src="/snap1.png" alt="Snapshot 1" width="45%" />
-  <img src="/snap2.png" alt="Snapshot 2" width="45%" />
-
-</div>
 
 ## Getting Started
 
